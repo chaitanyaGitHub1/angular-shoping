@@ -1,0 +1,18 @@
+{
+  "name": "crud-backend",
+  "version": "1.0.0",
+  "description": "simple mean application",
+  "main": "entry.js",
+  "scripts": {
+    "start": "entry.js"
+  },
+  "author": "Chaitu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17",
+    "mongose": "0.0.2-security"
+  }
+}
