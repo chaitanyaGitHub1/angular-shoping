@@ -1,8 +1,8 @@
 # angular-shoping
 Learning MEAN app 
 
-To run backend code goto crud-backend folder and run nodemon
-To run frontend goto crud-angular folder and run nodemon
+To run backend code goto crud-backend folder and run nodemon.
+To run frontend goto crud-angular folder and run nodemon.
 Run mongodb in localhost.
 
 open browser localhost:4200
